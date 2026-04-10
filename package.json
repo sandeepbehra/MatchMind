@@ -1,0 +1,23 @@
+{
+  "name": "matchmind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepbehra/MatchMind.git"
+  },
+  "author": "Sandeep Behra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepbehra/MatchMind/issues"
+  },
+  "homepage": "https://github.com/sandeepbehra/MatchMind#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
